@@ -16,7 +16,7 @@
   
 - <b>PowerShell</b>
  
-- <b>C# (.NET Desktop Applications)</b>
+- <b>C++ </b>
 
 - <b>Python</b>
 
