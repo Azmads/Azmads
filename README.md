@@ -21,6 +21,3 @@
 - <b>Python</b>
 
 
-<h2>  Connect with me:</h2>
-
-
