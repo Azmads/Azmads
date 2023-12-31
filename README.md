@@ -10,7 +10,7 @@
 </h2>
 
 - <b>Machine Learning</b>
-  - Car sales predictor by building a keras sequential model that uses linear regression
+  - [Car sales predictor by building a (Artificial neural network) keras sequential model that uses linear regression](https://github.com/Azmads/Car-sales-purchase-prediction-using-artificial-neural-networks) 
   
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   
