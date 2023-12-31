@@ -6,9 +6,11 @@
 
 <h2>
   👨‍💻 Software Development Projects:
+  
 </h2>
 
 - <b>Machine Learning</b>
+  - Car sales predictor by building a keras sequential model that uses linear regression
   
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   
@@ -18,14 +20,7 @@
 
 - <b>Python</b>
 
-<h2>📺 Tutorials </h2>
 
+<h2>  Connect with me:</h2>
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[instagram]: https://www.instagram.com/
-[linkedin]: https://linkedin.com/in/
 
