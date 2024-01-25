@@ -10,7 +10,8 @@
 </h2>
 
 - <b>Machine Learning</b>
-  - [Car sales predictor by building a (Artificial neural network) keras sequential model that uses linear regression](https://github.com/Azmads/Car-sales-purchase-prediction-using-artificial-neural-networks) 
+  - [Car sales predictor by building a (Artificial neural network) keras sequential model that uses linear regression](https://github.com/Azmads/Car-sales-purchase-prediction-using-artificial-neural-networks)
+  - [Convolutional Neural Network project to classify numbers using the MNIST dataset](https://github.com/Azmads/MNIST-Hello-Machine-Learning-)
   
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   
