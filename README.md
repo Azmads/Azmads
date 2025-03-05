@@ -13,6 +13,7 @@
   useable but currently in alpha build](https://github.com/Azmads/Local-NLP-agent)
 
 - <b>Machine Learning</b>
+ - [FINISHED ALPHA BUILD - <b> Local NLP agent </b> Working APP of an all in one LLM browser capable of using Deepseek, llama, mistral or other LLMs LOCALLY or even Chatgpts API with tokens, that can also read files/documentation for the user - useable but currently in alpha build](https://github.com/Azmads/Local-NLP-agent)
   - [Car sales predictor by building a (Artificial neural network) keras sequential model that uses linear regression](https://github.com/Azmads/Car-sales-purchase-prediction-using-artificial-neural-networks)
   - [Convolutional Neural Network project to classify numbers using the MNIST dataset](https://github.com/Azmads/MNIST-Hello-Machine-Learning-)
   
